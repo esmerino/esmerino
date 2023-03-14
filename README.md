@@ -13,7 +13,7 @@ The tools I love working with are:
 
 I started contributing to open source and would love to contribute more in the future.
 
-Whatsapp - (+5511943262694)
+WhatsApp +55 11943262694)
 <!--
 **esmerino/esmerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
