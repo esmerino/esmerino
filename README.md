@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+My name is José Esmerino, I'm a Ruby on Rails developer and DevOps from Brazil.
+
+The tools I love working with are:
+
+- Ruby, Ruby on Rails and turbo-rails
+- Stimulus for sprinkles (✨) of JavaScript
+- Rspec/Minitest for testing
+- Docker
+- Ansible
+- AWS/Digitalocean/Heroku/Fly.io
+
+I started contributing to open source and would love to contribute more in the future.
+
+Whatsapp - (+5511943262694)
 <!--
 **esmerino/esmerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
