@@ -11,9 +11,6 @@ The tools I love working with are:
 - Ansible
 - AWS/Digitalocean/Heroku/Fly.io
 
-I started contributing to open source and would love to contribute more in the future.
-
-WhatsApp +55 11943262694)
 <!--
 **esmerino/esmerino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
