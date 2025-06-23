@@ -4,7 +4,7 @@ My name is José Esmerino, I'm a Ruby on Rails developer and DevOps from Brazil.
 
 The tools I love working with are:
 
-- Ruby, Ruby on Rails and Turbo
+- Ruby, Ruby on Rails and hotwired(Turbo and Stimulus)
 - Stimulus for sprinkles (✨) of JavaScript
 - Rspec/Minitest for testing
 - Docker
